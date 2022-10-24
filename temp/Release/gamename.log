@@ -1,0 +1,6 @@
+﻿D:\UNI\GP\UNI SVN\COMP710-2022-S2\students\les.mcilroy\gamename\source\..\temp\Release\animatedsprite.obj : warning LNK4042: object specified more than once; extras ignored
+D:\UNI\GP\UNI SVN\COMP710-2022-S2\students\les.mcilroy\gamename\source\..\temp\Release\entity.obj : warning LNK4042: object specified more than once; extras ignored
+  Generating code
+  All 2560 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  gamename.vcxproj -> D:\UNI\GP\UNI SVN\COMP710-2022-S2\students\les.mcilroy\gamename\source\..\game\gamename.exe

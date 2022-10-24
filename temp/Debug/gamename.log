@@ -1,0 +1,9 @@
+﻿  crate.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math_defines.h(22): warning C4005: 'M_PI': macro redefinition
+  d:\uni\gp\uni svn\comp710-2022-s2\shared\api-sdl\sdl2-2.0.22\include\sdl_stdinc.h(587): note: see previous definition of 'M_PI'
+d:\uni\gp\uni svn\comp710-2022-s2\students\les.mcilroy\gamename\source\gamename\inlinehelpers.h(43): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\uni\gp\uni svn\comp710-2022-s2\students\les.mcilroy\gamename\source\gamename\inlinehelpers.h(48): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\uni\gp\uni svn\comp710-2022-s2\students\les.mcilroy\gamename\source\gamename\crate.cpp(35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\uni\gp\uni svn\comp710-2022-s2\students\les.mcilroy\gamename\source\gamename\crate.cpp(35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\uni\gp\uni svn\comp710-2022-s2\students\les.mcilroy\gamename\source\gamename\crate.cpp(39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  gamename.vcxproj -> D:\UNI\GP\UNI SVN\COMP710-2022-S2\students\les.mcilroy\gamename\source\..\game\gamename_debug.exe
